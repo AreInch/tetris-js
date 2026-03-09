@@ -1,1 +1,1 @@
-# tetris-js
+![Tetris Screenshot](tetris.png)
